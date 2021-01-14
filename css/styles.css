@@ -2,14 +2,13 @@
 {
     background-color: #ff4c68;
 }
-h1{
+h1,h2,h3,h4,h5,h6{
     font-family: 'Montserrat', sans-serif;
    
-    size: 3rem;
-    line-height: 1.5;
+    
 }
 h2{
-    font-family: 'Montserrat', sans-serif;
+    
 
     font-size: 3rem;
     line-height: 1.5;
@@ -30,6 +29,15 @@ body{
     padding-bottom: 4.5rem;
 }
 
+
+
+.big-heading{
+    font-family: 'Montserrat', sans-serif;
+   
+    size: 3rem;
+    line-height: 1.5;
+}
+}
 
 /* navigation bar */
 .navbar-brand{
