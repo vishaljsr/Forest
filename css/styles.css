@@ -51,8 +51,8 @@ body{
     margin: 5% 3% 5% 0;
 }
 .title-image{
-    width: 18.75rem;
-    height: 37.5rem;
+    /* width: 18.75rem;
+    height: 37.5rem; */
     transform: rotate(15deg);
     position: absolute;
     right: 20%;
