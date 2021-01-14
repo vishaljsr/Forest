@@ -10,7 +10,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .container-fluid{
-    padding:3% 15% 7% ;
+    padding:7% 15%;
 }
 body{
     font-family: "Montserrat";
@@ -78,7 +78,7 @@ body{
 }
 #features{
     
-    padding: 7% 15%;
+  
     background-color: #fff;
     position: relative;
     
@@ -128,9 +128,7 @@ p{
     color: #fff;
     
  }
-.carousel-item{
-    padding: 7% 15%;
-}
+
 
 
  .Testimonials-image{
@@ -193,7 +191,7 @@ p{
 
  #cta{
    
-     padding: 7% 15%;
+   
      background-color: #ff4c68;
      color: #ffff;
 
@@ -203,11 +201,7 @@ p{
     size: 3.5rem;
     line-height: 1.5;
  }
- #footer{
-     
-     padding: 7% 15%;
 
- }
 
  .social-icon{
      margin:20px 10px;
