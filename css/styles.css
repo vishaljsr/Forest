@@ -2,7 +2,13 @@
 {
     background-color: #ff4c68;
     text-align: left;
+    color: #ffffff ;
 }
+
+#title .container-fluid{
+     padding: 3% 15% 7% ; 
+}
+
 h1,h2,h3,h4,h5,h6{
     font-family: 'Montserrat', sans-serif;
    
@@ -17,10 +23,9 @@ body{
     text-align: center;
 
 }
-#title{
-    background-color: #ff4c68;
-    color: #ffffff ;
-}
+
+
+
 
 
 .navbar{
