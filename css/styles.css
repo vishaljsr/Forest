@@ -1,0 +1,148 @@
+#title
+{
+    background-color: #ff4c68;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+   
+    size: 3rem;
+    line-height: 1.5;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.container-fluid{
+    padding:3% 15% 10% 15% ;
+}
+body{
+    font-family: "Montserrat";
+}
+#title{
+    background-color: #ff4c68;
+    color: #ffffff ;
+}
+
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+
+/* navigation bar */
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light' sans-serif;
+}
+
+/* DOWNLOAD BUTTON */
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+.title-image{
+    width: 300px;
+    height: 600px;
+    transform: rotate(15deg);
+    position: absolute;
+}
+#features{
+    
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    
+   
+}
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+p{
+    color: #8f8f8f;
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+
+}
+.icon:hover{
+    color: #ff4c68;
+}
+
+ /* Testimonials */
+ #testimonials{
+     text-align: center;
+     background-color: #ef8172;
+    color: #fff;
+    
+ }
+.carousel-item{
+    padding: 7% 15%;
+}
+
+
+ .Testimonials-image{
+
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+
+
+ }
+ #press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+ }
+ .press-image{
+    width: 20%;
+    padding-right: 100px;
+    
+ }
+
+
+ /* pricing section */
+#pricing{
+    padding:100px;
+    text-align: center;
+}
+ .pricing-coloumn{
+     padding: 2% 2%;
+ }
+
+ #cta{
+     text-align: center;
+     padding: 7% 15%;
+     background-color: #ff4c68;
+     color: #ffff;
+
+ }
+ .cta-heading{
+    font-family: 'Montserrat', sans-serif;
+    size: 3.5rem;
+    line-height: 1.5;
+ }
+ #footer{
+     text-align: center;
+     padding: 7% 15%;
+
+ }
+ .footer-para{
+    
+ }
+ .social-icon{
+     margin:20px 10px;
+ }
