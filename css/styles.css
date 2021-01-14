@@ -51,11 +51,25 @@ body{
     margin: 5% 3% 5% 0;
 }
 .title-image{
-     width: 18.75rem;
+    width: 18.75rem;
     height: 37.5rem; 
     transform: rotate(15deg);
     position: absolute;
-    right: 20%;  
+    right: 25%;  
+}
+
+@media(max-width: 991px){
+
+
+    #title{
+        text-align: center;
+    }
+    .title-image {
+
+    position: static;
+    transform: rotate(0);
+  
+    }
 }
 #features{
     
@@ -146,3 +160,11 @@ p{
  .social-icon{
      margin:20px 10px;
  }
+
+
+
+
+
+ /* media */
+
+ 
