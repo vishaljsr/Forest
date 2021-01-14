@@ -15,7 +15,7 @@ h2{
     line-height: 1.5;
 }
 .container-fluid{
-    padding:3% 15% 10% 15% ;
+    padding:3% 15% 7% ;
 }
 body{
     font-family: "Montserrat";
@@ -51,16 +51,18 @@ body{
     margin: 5% 3% 5% 0;
 }
 .title-image{
-    width: 300px;
-    height: 600px;
+    width: 18.75rem;
+    height: 37.5rem;
     transform: rotate(15deg);
     position: absolute;
+    right: 20%;
 }
 #features{
     
     padding: 7% 15%;
     background-color: #fff;
     position: relative;
+    text-align: center;
     
    
 }
